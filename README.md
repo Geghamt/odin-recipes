@@ -1,2 +1,2 @@
 # odin-recipes
-This is a creating a reciprs project to showcase what I have learned so far
+This is to create a "recipes" project to showcase what I have learned so far
